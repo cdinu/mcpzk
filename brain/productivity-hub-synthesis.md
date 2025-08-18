@@ -1,7 +1,7 @@
 ---
 tags: #productivity-hub #synthesis
 created: 2025-08-17
-updated: 2025-08-17
+updated: 2025-08-18
 ---
 
 # Productivity Hub - Synthesis & Patterns
@@ -68,11 +68,15 @@ updated: 2025-08-17
 - [Knowing what to do becomes scarce](productivity-knowing-what-to-do-scarce.md) - Judgment as limiting factor
 - [Written goals increase fruition](productivity-written-goals-increase.md) - Documentation psychology
 - [Some thrive without goals](productivity-thrive-without-goals.md) - Alternative approaches to achievement
+- [Deep work coefficient measures task complexity](productivity-deep-work-coefficient.md) - Framework for prioritizing complex work
+- [People can be unhappy despite professional success](productivity-unhappy-despite-success.md) - Success-satisfaction disconnect
 
 **Development & Process**
 - [We are under construction](productivity-always-under-construction.md) - Continuous development mindset
 - [Being busy not excuse](productivity-busy-not-excuse.md) - Time management and priority reality
 - [Reps useful literally figuratively](productivity-reps-both-ways.md) - Process repetition for skill development
+- [Best activities require no willpower](productivity-activities-require-no-willpower.md) - Sustainable behavior design
+- [Complaining without solutions demonstrates insufficient motivation](productivity-complaining-without-solutions.md) - Action-oriented problem solving
 
 **Professional Strategy**
 - [Associate with boss new place](productivity-associate-boss.md) - Strategic relationship building

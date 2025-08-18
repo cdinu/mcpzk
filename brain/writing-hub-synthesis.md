@@ -1,7 +1,7 @@
 ---
 tags: #writing-hub #synthesis
 created: 2025-08-17
-updated: 2025-08-17
+updated: 2025-08-18
 ---
 
 # Writing Hub - Synthesis & Patterns
@@ -54,7 +54,12 @@ updated: 2025-08-17
 ## Supporting Notes
 
 **Language & Consciousness**
-- [Words foundation examined life](writing-words-foundation-examined.md) - Core principle of linguistic self-awareness
+- [Words foundation examined life](writing-words-examined-life.md) - Core principle of linguistic self-awareness
+- [Sentences have musical rhythms](writing-sentences-rhythmic-patterns.md) - Rhythm in prose affects emotional impact
+
+**Knowledge Systems & Action**
+- [Religion values faith while science values doubt](writing-religion-faith-science-doubt.md) - Different approaches to truth and knowledge
+- [Most business books are idea books not action books](writing-business-books-ideas-not-action.md) - Gap between inspiration and implementation
 
 ## Supporting Sources
 

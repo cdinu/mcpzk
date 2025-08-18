@@ -1,7 +1,7 @@
 ---
 tags: #technology-hub #synthesis
 created: 2025-08-17
-updated: 2025-08-17
+updated: 2025-08-18
 ---
 
 # Technology Hub - Synthesis & Patterns
@@ -57,6 +57,14 @@ updated: 2025-08-17
 - [Pure functions easier test](technology-pure-functions-test.md) - Core testing advantage
 - [Pure function calls impure not pure](technology-pure-impure-contamination.md) - Contamination principle
 - [Pure functions not care order](technology-pure-order-independence.md) - Order independence benefit
+
+**Security & Development**
+- [Virtual machine development increases security](technology-virtual-machine-development-security.md) - Isolation for secure development
+- [Security theatre creates false safety perception](technology-security-theatre-false-safety.md) - Effective vs. visible security
+
+**Interface Evolution**
+- [New generations don't understand filesystem concepts](technology-filesystem-generation-gap.md) - Abstraction changing mental models
+- [Smartphones enable portable productivity tools](technology-smartphone-productivity-tools.md) - Mobile tools impact on cognitive work
 
 ## Supporting Sources
 

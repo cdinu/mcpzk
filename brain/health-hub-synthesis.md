@@ -1,7 +1,7 @@
 ---
 tags: #health-hub #synthesis
 created: 2025-08-17
-updated: 2025-08-17
+updated: 2025-08-18
 ---
 
 # Health Hub - Synthesis & Patterns
@@ -56,6 +56,11 @@ updated: 2025-08-17
 **Mortality & Psychology**
 - [Death anxiety normal adaptive](health-death-anxiety-adaptive.md) - Psychological function of mortality awareness
 - [Exercise increases longevity capacity](health-exercise-longevity-capacity.md) - Physical activity compounding benefits
+- [Consciousness passive observer](health-consciousness-passive-observer.md) - Understanding consciousness as observer vs. controller
+
+**Aging & Prevention** 
+- [Aging continuous from birth](health-aging-continuous-birth.md) - Aging as lifelong process requiring early intervention
+- [Oral bacteria links to obesity](health-oral-bacteria-obesity-link.md) - Simple interventions with systemic benefits
 
 ## Supporting Sources
 

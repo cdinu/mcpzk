@@ -1,7 +1,7 @@
 ---
 tags: #neurodiversity-hub #synthesis
 created: 2025-08-17
-updated: 2025-08-17
+updated: 2025-08-18
 ---
 
 # Neurodiversity Hub - Synthesis & Patterns
@@ -54,9 +54,13 @@ updated: 2025-08-17
 ## Supporting Notes
 
 **Emotional Processing**
-- [Alexithymia inability express emotions](neurodiversity-alexithymia-expression.md) - Core emotional recognition challenge
-- [Autistic predisposed rumination](neurodiversity-autistic-rumination.md) - Cognitive pattern amplification
-- [ASD meltdowns more often](neurodiversity-asd-meltdowns.md) - Overload and capacity management
+- [Alexithymia blocks emotional expression](neurodiversity-alexithymia-emotional-expression.md) - Core emotional recognition challenge
+- [Autistic rumination predisposition](neurodiversity-autism-rumination.md) - Cognitive pattern amplification
+- [ASD meltdowns more frequent](neurodiversity-asd-meltdowns-frequent.md) - Overload and capacity management
+
+**Cognitive Strategies**
+- [Organization compensates for attention deficits](neurodiversity-organization-compensates-attention.md) - External systems as cognitive support
+- [ADHD individuals show strong justice sensitivity](neurodiversity-adhd-justice-sensitivity.md) - Heightened fairness awareness
 
 ## Supporting Sources
 
