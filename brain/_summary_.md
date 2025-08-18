@@ -14,14 +14,14 @@ These are the primary organizing documents that synthesize insights within each 
 
 | Domain | File | Last Updated | Note Count |
 |--------|------|--------------|------------|
-| AI | `ai-hub-synthesis.md` | 2025-08-18 | ~7 |
-| Energy | `energy-hub-synthesis.md` | 2025-08-18 | ~20 |
-| Politics | `politics-hub-synthesis.md` | 2025-08-18 | ~22 |
-| Productivity | `productivity-hub-synthesis.md` | 2025-08-18 | ~15 |
-| Neurodiversity | `neurodiversity-hub-synthesis.md` | 2025-08-18 | ~5 |
-| Health | `health-hub-synthesis.md` | 2025-08-18 | ~3 |
-| Technology | `technology-hub-synthesis.md` | 2025-08-18 | ~7 |
-| Writing | `writing-hub-synthesis.md` | 2025-08-18 | ~4 |
+| AI | `ai-hub-synthesis.md` | 2025-08-18 | 7 |
+| Energy | `energy-hub-synthesis.md` | 2025-08-18 | 20 |
+| Politics | `politics-hub-synthesis.md` | 2025-08-18 | 24 |
+| Productivity | `productivity-hub-synthesis.md` | 2025-08-18 | 8 |
+| Neurodiversity | `neurodiversity-hub-synthesis.md` | 2025-08-18 | 5 |
+| Health | `health-hub-synthesis.md` | 2025-08-18 | 3 |
+| Technology | `technology-hub-synthesis.md` | 2025-08-18 | 4 |
+| Writing | `writing-hub-synthesis.md` | 2025-08-18 | 4 |
 
 ### **Cross-Domain Integration**
 - `meta-hub-cross-domain.md` - Identifies patterns spanning multiple domains

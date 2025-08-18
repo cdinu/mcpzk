@@ -1,1 +1,8 @@
-{}
+{
+  "theme": "obsidian",
+  "accentColor": "#006118",
+  "showViewHeader": false,
+  "showRibbon": true,
+  "translucency": false,
+  "cssTheme": "Things"
+}

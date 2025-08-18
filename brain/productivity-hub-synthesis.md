@@ -55,33 +55,19 @@ updated: 2025-08-18
 
 **Accountability & Decision-Making**
 - [DRI system works phenomenally](productivity-dri-system-works.md) - Apple's individual accountability model
-- [Small tasks no DRI needed](productivity-small-tasks-no-dri.md) - When to apply accountability systems
-- [DRIs need power](productivity-dris-need-power.md) - Authority requirements for accountability
-- [DRI is RACI R and A](productivity-dri-raci-matrix.md) - Integration with responsibility frameworks
 
 **Tradeoff & Decision Frameworks**
 - [Life series of tradeoffs](productivity-life-tradeoffs.md) - Fundamental reality of choice and opportunity cost
-- [Maturity means understanding tradeoffs](productivity-maturity-tradeoffs.md) - Psychological development through acceptance
-- [People shaped by what NOT do](productivity-shaped-not-doing.md) - Importance of choices avoided
 
 **Value & Scarcity**
 - [Knowing what to do becomes scarce](productivity-knowing-what-to-do-scarce.md) - Judgment as limiting factor
 - [Written goals increase fruition](productivity-written-goals-increase.md) - Documentation psychology
-- [Some thrive without goals](productivity-thrive-without-goals.md) - Alternative approaches to achievement
 - [Deep work coefficient measures task complexity](productivity-deep-work-coefficient.md) - Framework for prioritizing complex work
 - [People can be unhappy despite professional success](productivity-unhappy-despite-success.md) - Success-satisfaction disconnect
 
 **Development & Process**
-- [We are under construction](productivity-always-under-construction.md) - Continuous development mindset
-- [Being busy not excuse](productivity-busy-not-excuse.md) - Time management and priority reality
-- [Reps useful literally figuratively](productivity-reps-both-ways.md) - Process repetition for skill development
 - [Best activities require no willpower](productivity-activities-require-no-willpower.md) - Sustainable behavior design
 - [Complaining without solutions demonstrates insufficient motivation](productivity-complaining-without-solutions.md) - Action-oriented problem solving
-
-**Professional Strategy**
-- [Associate with boss new place](productivity-associate-boss.md) - Strategic relationship building
-- [Promote yourself shamelessly](productivity-promote-shamelessly.md) - Self-advocacy and value communication
-- [Trust willingness be vulnerable](productivity-trust-vulnerability.md) - Relationship foundation for collaboration
 
 ## Supporting Sources
 

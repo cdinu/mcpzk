@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_llm_instructions_.md",
+                "file": "__start__.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_llm_instructions_"
+              "title": "__start__"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_llm_instructions_.md",
+                "file": "__start__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _llm_instructions_"
+              "title": "Backlinks for __start__"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_llm_instructions_.md",
+                "file": "__start__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _llm_instructions_"
+              "title": "Outgoing links from __start__"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_llm_instructions_.md",
+                "file": "__start__.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _llm_instructions_"
+              "title": "Outline of __start__"
             }
           }
         ]
@@ -185,11 +185,11 @@
   },
   "active": "020da20d2066c343",
   "lastOpenFiles": [
+    "_llm_instructions_.md",
     "_summary_.md",
     "__start__.md",
     "ai-writing-forklift-gym.md",
     "ai-cognitive-fitness-decline.md",
-    "_llm_instructions_.md",
     "technology-filesystem-generation-gap.md",
     "writing-business-books-ideas-not-action.md",
     "writing-hub-synthesis.md",
