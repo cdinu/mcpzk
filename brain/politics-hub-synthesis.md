@@ -1,7 +1,7 @@
 ---
 tags: #politics-hub #synthesis
 created: 2025-08-17
-updated: 2025-08-17
+updated: 2025-08-18
 ---
 
 # Politics Hub - Synthesis & Patterns
@@ -62,18 +62,28 @@ updated: 2025-08-17
 **Power Dynamics**
 - [The West is dead](politics-west-dead.md) - End of Western leadership and post-WWII order
 - [2025 time for hard power](politics-hard-power-2025.md) - Shift from soft to hard power in international relations
+- [European welfare not warfare states](politics-europe-welfare-warfare.md) - European focus on social benefits over military
+- [European states prioritize welfare over warfare](politics-europe-welfare-over-warfare.md) - Analysis of European strategic vulnerabilities
+- [EU as metrosexual power](politics-eu-metrosexual-power.md) - European soft power in hard power world
 - [China uses economic pressure](politics-china-economic-pressure.md) - Economic leverage as political weapon
+- [China external censorship Three Ts](politics-china-three-ts.md) - Information control strategies
 - [Some conspiracies are real](politics-conspiracy-real.md) - Actual elite coordination vs. conspiracy theories
 
 **Social Breakdown**
 - [State of shock societal](politics-societal-shock.md) - How unprecedented events create vulnerability
 - [Rules breakdown resource scarcity](politics-rules-breakdown-scarcity.md) - Contingent nature of social order
 - [Pipiking trivializes serious ideas](politics-pipiking-meaning-sabotage.md) - Coordinated language destruction
+- [Society encourages shallow vs deep work](politics-society-shallow-work.md) - Cultural attention degradation
+- [UK rudeness vs friendship](politics-uk-rudeness-friendship.md) - Social behavior pattern changes
 
 **Human Nature & Systems**
 - [Crime as social vs individual product](politics-crime-social-individual.md) - Statistical regularity implies systemic causes
 - [Only 80% consider extinction bad](politics-extinction-80percent-bad.md) - Diversity in fundamental human values
 - [Communism vs greed human nature](politics-communism-greed-human-nature.md) - System design challenges
+- [Communism failed greed not ideology](politics-communism-failed-greed-not-ideology.md) - Alternative analysis of communist failures
+- [Liberty and taxation relationship](politics-liberty-taxation-relationship.md) - Fundamental political tradeoffs
+- [Nordic billionaires per capita](politics-nordic-billionaires.md) - Welfare capitalism outcomes
+- [Future prediction consistently poor](politics-future-prediction-poor.md) - Limitation of political forecasting
 
 ## Supporting Sources
 

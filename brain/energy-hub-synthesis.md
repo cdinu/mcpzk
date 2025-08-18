@@ -1,7 +1,7 @@
 ---
 tags: #energy-hub #synthesis
 created: 2025-08-17
-updated: 2025-08-17
+updated: 2025-08-18
 ---
 
 # Energy Hub - Synthesis & Patterns
@@ -72,11 +72,14 @@ updated: 2025-08-17
 **Environmental Complexity**
 - [Climate often against humans](energy-climate-hostile.md) - Natural climate hostility predates human influence
 - [Air pollution from energy shortens lives](energy-pollution-health-impact.md) - Health costs of energy production
+- [Air pollution from energy causes mass mortality](energy-air-pollution-mass-mortality.md) - Quantified health impacts and hidden costs
 - [Environment more than just climate](energy-environment-broader.md) - Multiple environmental dimensions beyond climate
 - [Climate change secondary effects](energy-climate-secondary-effects.md) - Indirect impacts through social systems
+- [Climate increases nuclear war risk](energy-climate-war-risk.md) - Catastrophic secondary risks from climate change
 
 **Efficiency Innovation**
 - [Manufacturing emissions exceed usage emissions](energy-manufacturing-emissions.md) - Lifecycle thinking challenges
+- [Manufacturing carbon emissions exceed usage emissions](energy-manufacturing-carbon-exceeds-usage.md) - Detailed analysis of embedded carbon
 - [Servers at high utilization greenest](energy-servers-efficiency.md) - Utilization optimization beats reduction
 - [CO2 persists thousands of years](energy-co2-persistence.md) - Permanence implications for policy
 
