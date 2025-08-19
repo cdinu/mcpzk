@@ -12,7 +12,7 @@ updated: 2025-08-18
 
 2. **The Concentration of Benefits**: AI amplifies existing advantages rather than democratizing them, widening gaps between experts and novices while potentially destabilizing social structures built on broader capability distribution. Expert-AI combinations dramatically outperform both standalone experts and novice-AI combinations.
 
-3. **The Transformation Imperative**: AI fundamentally changes the nature of human work and thinking rather than simply automating existing processes, requiring complete reconceptualization of skill development and value creation.
+3. **The Transformation Imperative**: AI fundamentally changes the nature of human work and thinking rather than simply automating existing processes, requiring complete reconceptualization of skill development and value creation. The Linguistic User Interface pattern exemplifies this transformation by making AI an orchestrator of formal tools rather than a replacement for human reasoning.
 
 ## Key Patterns
 
@@ -30,6 +30,7 @@ updated: 2025-08-18
 - **"AI Surveillance Democracy Problem"** - How authoritarian AI capabilities combined with weakened citizen critical thinking creates existential threat to democratic governance
 - **"Beyond Paychecks: The Meaning-Dignity Work Framework"** - Why displaced workers need purpose and status, not just compensation, when AI eliminates their roles
 - **"The Turing Test Paradox"** - Why advanced AI must deliberately underperform to pass human intelligence tests, revealing fundamental flaws in AI evaluation
+- **"The Linguistic User Interface Revolution"** - How AI systems should orchestrate formal tools rather than pretend to be human, enabling reliable computational workflows
 
 ### Developing Ideas
 
@@ -70,6 +71,7 @@ updated: 2025-08-18
 - [AI skill leverage increases](ai-skill-leverage-amplifies.md) - 90% skills eliminated, 10% amplified 1000x
 - [AI work replacement requires meaning, dignity and economic security](ai-work-replacement-meaning-dignity.md) - Why financial compensation alone fails displaced workers
 - [LLMs amplify existing expertise](ai-llm-amplify-expertise.md) - Concrete example of expert advantage with AI tools
+- [LLMs function as Linguistic User Interface to formal systems](ai-lui-linguistic-user-interface.md) - Architectural pattern for reliable AI-human-tool collaboration
 
 ## Supporting Sources
 

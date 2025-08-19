@@ -14,7 +14,7 @@ These are the primary organizing documents that synthesize insights within each 
 
 | Domain | File | Last Updated | Note Count |
 |--------|------|--------------|------------|
-| AI | `ai-hub-synthesis.md` | 2025-08-19 | 10 |
+| AI | `ai-hub-synthesis.md` | 2025-08-19 | 11 |
 | Energy | `energy-hub-synthesis.md` | 2025-08-19 | 21 |
 | Politics | `politics-hub-synthesis.md` | 2025-08-18 | 24 |
 | Productivity | `productivity-hub-synthesis.md` | 2025-08-18 | 8 |
