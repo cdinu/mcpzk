@@ -14,6 +14,8 @@ updated: 2025-08-18
 
 3. **The Efficiency Paradox**: Environmental protection often requires using technology better rather than using less technology, challenging simple reduction-based approaches to environmental problems.
 
+4. **The Feudalization Risk**: Energy transition concentrates infrastructure control in few hands through platform power and private microgrid development, creating dependency relationships and stratified access rather than democratizing energy systems.
+
 ## Key Patterns
 
 - **Accessibility vs. Idealism Tension**: Most accessible energy sources have environmental costs, while cleanest sources have accessibility limitations, creating unavoidable tradeoffs
@@ -28,6 +30,7 @@ updated: 2025-08-18
 - **"Energy Realism vs. Energy Idealism"** - Why ignoring fossil fuel benefits in climate discourse leads to dangerous policy blind spots
 - **"The Accessibility Imperative"** - How energy source characteristics determine which populations live or die, not just environmental quality
 - **"Manufacturing vs. Usage Carbon"** - Why buying less often beats using less for environmental impact, challenging efficiency-focused approaches
+- **"The Energy Feudalism Threat"** - How clean energy transition creates new forms of infrastructure control and dependency rather than democratizing energy access
 
 ### Developing Ideas
 
@@ -68,6 +71,7 @@ updated: 2025-08-18
 - [Public discourse ignores fossil benefits](energy-discourse-fossil-benefits.md) - Systematic bias in energy debates  
 - [Climate discourse influenced by politicians](energy-discourse-political.md) - Political distortion of technical analysis
 - [CO2 emissions affect world everywhere](energy-co2-global-impact.md) - Collective action problem structure
+- [Energy feudalism concentrates infrastructure control](energy-feudalism-infrastructure-control.md) - Power concentration in energy transition
 
 **Environmental Complexity**
 - [Climate often against humans](energy-climate-hostile.md) - Natural climate hostility predates human influence

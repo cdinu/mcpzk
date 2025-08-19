@@ -61,8 +61,8 @@ This meta-hub identifies patterns and article opportunities that span multiple d
 **Synthesis**: Acknowledging difficult realities enables better outcomes across all domains. Fossil fuel benefits, AI risks, political tradeoffs, mortality, and personal blind spots all require honest assessment. The Socratic principle that "an unexamined life is not worth living" applies to energy policy, AI governance, political analysis, and health decisions.
 
 ### The Individual-Collective Paradox
-**Cross-Domain Connection**: Productivity accountability + political legitimacy + neurodiversity accommodation + AI governance
-**Synthesis**: Individual excellence and clear responsibility paradoxically enable better collective outcomes, but collective systems often resist individual accountability.
+**Cross-Domain Connection**: Productivity accountability + political legitimacy + neurodiversity accommodation + AI governance + energy infrastructure control
+**Synthesis**: Individual excellence and clear responsibility paradoxically enable better collective outcomes, but collective systems often resist individual accountability. Energy feudalism shows how private individual solutions (microgrids) can undermine collective resilience and democratic control.
 
 ### The Prediction-Adaptation Balance
 **Cross-Domain Connection**: AI capabilities + climate planning + political forecasting + health prevention
@@ -99,6 +99,12 @@ This meta-hub identifies patterns and article opportunities that span multiple d
 **Hook**: Why early movers in the right areas create exponential advantages
 **Evidence**: AI skill leverage, exercise longevity benefits, writing clarity, pure function reliability
 **Counter-argument**: Inequality amplification vs. meritocracy
+
+### 6. **"The New Feudalism: How Digital Platforms Create Modern Lords and Serfs"**
+**Domains**: Energy + AI + Technology + Politics
+**Hook**: Why infrastructure control is the new basis of power and dependency
+**Evidence**: Energy platform control, AI system ownership, technology lock-in, political platform power
+**Counter-argument**: Innovation incentives vs. democratic control
 
 ## Research Priorities
 
