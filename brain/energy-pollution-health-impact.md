@@ -1,5 +1,5 @@
 ---
-tags: #energy #pollution #health #urban #course
+tags: ["energy", "pollution", "health", "urban", "course"]
 created: 2023-01-03
 ---
 

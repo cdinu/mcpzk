@@ -1,5 +1,5 @@
 ---
-tags: #energy #climate #hostile #environment #book
+tags: ["energy", "climate", "hostile", "environment", "book"]
 created: 2023-12-17
 ---
 

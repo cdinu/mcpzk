@@ -1,0 +1,179 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Knowledge Garden"
+  description: "A Zettelkasten-style knowledge management system exploring interconnected ideas across multiple domains"
+  navbar:
+    title: "🧠 Knowledge Garden"
+    left:
+      - text: "Home"
+        file: brain/__start__.md
+      - text: "Domains"
+        menu:
+          - text: "🤖 AI Hub"
+            file: brain/ai-hub-synthesis.md
+          - text: "⚡ Energy Hub"
+            file: brain/energy-hub-synthesis.md
+          - text: "🏛️ Politics Hub"
+            file: brain/politics-hub-synthesis.md
+          - text: "📈 Productivity Hub"
+            file: brain/productivity-hub-synthesis.md
+          - text: "🧠 Neurodiversity Hub"
+            file: brain/neurodiversity-hub-synthesis.md
+          - text: "🏥 Health Hub"
+            file: brain/health-hub-synthesis.md
+          - text: "💻 Technology Hub"
+            file: brain/technology-hub-synthesis.md
+          - text: "✍️ Writing Hub"
+            file: brain/writing-hub-synthesis.md
+      - text: "Cross-Domain"
+        file: brain/meta-hub-cross-domain.md
+      - text: "Summary"
+        file: brain/_summary_.md
+    right:
+      - icon: github
+        href: https://github.com/cdinu/mcpzk
+    search: true
+
+  sidebar:
+    - title: "AI Domain"
+      contents:
+        - brain/ai-hub-synthesis.md
+        - section: "AI Notes"
+          contents:
+            - brain/ai-cognitive-fitness-decline.md
+            - brain/ai-critical-thinking-decline.md
+            - brain/ai-critical-thinking-shifts.md
+            - brain/ai-expertise-gap-widens.md
+            - brain/ai-llm-amplify-expertise.md
+            - brain/ai-llm-orchestrator-tools-truth.md
+            - brain/ai-lui-linguistic-user-interface.md
+            - brain/ai-skill-leverage-amplifies.md
+            - brain/ai-surveillance-democracy.md
+            - brain/ai-turing-test-dumbing-down.md
+            - brain/ai-work-replacement-meaning-dignity.md
+            - brain/ai-writing-forklift-gym.md
+    
+    - title: "Energy Domain"
+      contents:
+        - brain/energy-hub-synthesis.md
+        - section: "Energy Notes"
+          contents:
+            - brain/energy-air-pollution-mass-mortality.md
+            - brain/energy-airships-transport.md
+            - brain/energy-climate-hostile.md
+            - brain/energy-climate-secondary-effects.md
+            - brain/energy-climate-war-risk.md
+            - brain/energy-co2-global-impact.md
+            - brain/energy-co2-persistence.md
+            - brain/energy-cost-climate-tradeoffs.md
+            - brain/energy-discourse-fossil-benefits.md
+            - brain/energy-discourse-political.md
+            - brain/energy-earth-hostile-environment.md
+            - brain/energy-environment-broader.md
+            - brain/energy-feudalism-infrastructure-control.md
+            - brain/energy-food-machines.md
+            - brain/energy-fossil-accessible.md
+            - brain/energy-infrastructure-habitable.md
+            - brain/energy-machines-survival.md
+            - brain/energy-manufacturing-carbon-exceeds-usage.md
+            - brain/energy-manufacturing-emissions.md
+            - brain/energy-pollution-health-impact.md
+            - brain/energy-servers-efficiency.md
+
+    - title: "Politics Domain"
+      contents:
+        - brain/politics-hub-synthesis.md
+        - section: "Politics Notes"
+          contents:
+            - brain/politics-capitalism-fails-care.md
+            - brain/politics-china-economic-pressure.md
+            - brain/politics-china-three-ts.md
+            - brain/politics-communism-failed-greed-not-ideology.md
+            - brain/politics-communism-greed-human-nature.md
+            - brain/politics-conspiracy-real.md
+            - brain/politics-crime-social-individual.md
+            - brain/politics-eu-metrosexual-power.md
+            - brain/politics-europe-welfare-over-warfare.md
+            - brain/politics-europe-welfare-warfare.md
+            - brain/politics-extinction-80percent-bad.md
+            - brain/politics-future-prediction-poor.md
+            - brain/politics-genz-benefits-work-uk.md
+            - brain/politics-hard-power-2025.md
+            - brain/politics-liberty-taxation-relationship.md
+            - brain/politics-nordic-billionaires.md
+            - brain/politics-pipiking-meaning-sabotage.md
+            - brain/politics-productivity-super-rich.md
+            - brain/politics-rules-breakdown-scarcity.md
+            - brain/politics-societal-shock.md
+            - brain/politics-society-shallow-work.md
+            - brain/politics-uk-rudeness-friendship.md
+            - brain/politics-welfare-work-motivation.md
+            - brain/politics-west-dead.md
+
+    - title: "Other Domains"
+      contents:
+        - section: "Productivity"
+          contents:
+            - brain/productivity-hub-synthesis.md
+            - brain/productivity-activities-require-no-willpower.md
+            - brain/productivity-complaining-without-solutions.md
+            - brain/productivity-deep-work-coefficient.md
+            - brain/productivity-dri-system-works.md
+            - brain/productivity-knowing-what-to-do-scarce.md
+            - brain/productivity-life-tradeoffs.md
+            - brain/productivity-unhappy-despite-success.md
+            - brain/productivity-written-goals-increase.md
+        
+        - section: "Neurodiversity"
+          contents:
+            - brain/neurodiversity-hub-synthesis.md
+            - brain/neurodiversity-adhd-justice-sensitivity.md
+            - brain/neurodiversity-alexithymia-emotional-expression.md
+            - brain/neurodiversity-asd-meltdowns-frequent.md
+            - brain/neurodiversity-autism-rumination.md
+            - brain/neurodiversity-organization-compensates-attention.md
+        
+        - section: "Health"
+          contents:
+            - brain/health-hub-synthesis.md
+            - brain/health-aging-continuous-birth.md
+            - brain/health-consciousness-passive-observer.md
+            - brain/health-oral-bacteria-obesity-link.md
+        
+        - section: "Technology"
+          contents:
+            - brain/technology-hub-synthesis.md
+            - brain/technology-filesystem-generation-gap.md
+            - brain/technology-security-theatre-false-safety.md
+            - brain/technology-smartphone-productivity-tools.md
+            - brain/technology-virtual-machine-development-security.md
+        
+        - section: "Writing"
+          contents:
+            - brain/writing-hub-synthesis.md
+            - brain/writing-business-books-ideas-not-action.md
+            - brain/writing-religion-faith-science-doubt.md
+            - brain/writing-sentences-rhythmic-patterns.md
+            - brain/writing-socrates-examined-life.md
+            - brain/writing-words-examined-life.md
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
+    citations-hover: true
+    footnotes-hover: true
+    page-navigation: false
+
+execute:
+  freeze: auto

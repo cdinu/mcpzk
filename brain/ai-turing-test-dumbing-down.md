@@ -1,5 +1,5 @@
 ---
-tags: #ai #turing-test #intelligence #deception #kurzweil #book #xme
+tags: ["ai", "turing-test", "intelligence", "deception", "kurzweil", "book", "xme"]
 created: 2025-08-19
 ---
 

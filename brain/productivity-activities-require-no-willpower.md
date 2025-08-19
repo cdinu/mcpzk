@@ -1,5 +1,5 @@
 ---
-tags: #productivity #willpower #habits #effort #sustainability
+tags: ["productivity", "willpower", "habits", "effort", "sustainability"]
 created: 2024-01-20
 updated: 2025-08-17
 ---

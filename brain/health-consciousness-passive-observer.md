@@ -1,5 +1,5 @@
 ---
-tags: #health #consciousness #ride #passive #observer #book
+tags: ["health", "consciousness", "ride", "passive", "observer", "book"]
 created: 2025-04-25
 ---
 

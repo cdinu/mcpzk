@@ -1,5 +1,5 @@
 ---
-tags: #energy #discourse #politics #climate #personal
+tags: ["energy", "discourse", "politics", "climate", "personal"]
 created: 2025-02-26
 ---
 

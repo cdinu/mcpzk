@@ -1,5 +1,5 @@
 ---
-tags: #politics #extinction #human #psychology #paper
+tags: ["politics", "extinction", "human", "psychology", "paper"]
 created: 2023-12-17
 ---
 

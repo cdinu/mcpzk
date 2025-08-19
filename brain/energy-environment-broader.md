@@ -1,5 +1,5 @@
 ---
-tags: #energy #environment #climate #broader #ai
+tags: ["energy", "environment", "climate", "broader", "ai"]
 created: 2023-01-01
 ---
 

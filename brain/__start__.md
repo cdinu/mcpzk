@@ -1,5 +1,5 @@
 ---
-tags: #welcome #overview #zettelkasten #knowledge-management
+tags: ["welcome", "overview", "zettelkasten", "knowledge-management"]
 created: 2025-08-18
 ---
 

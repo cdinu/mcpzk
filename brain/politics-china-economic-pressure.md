@@ -1,5 +1,5 @@
 ---
-tags: #politics #china #economic #pressure #geopolitics #book
+tags: ["politics", "china", "economic", "pressure", "geopolitics", "book"]
 created: 2025-04-25
 ---
 

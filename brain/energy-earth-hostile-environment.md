@@ -1,5 +1,5 @@
 ---
-tags: #energy #earth #hostile #environment #infrastructure #book
+tags: ["energy", "earth", "hostile", "environment", "infrastructure", "book"]
 created: 2023-12-17
 ---
 

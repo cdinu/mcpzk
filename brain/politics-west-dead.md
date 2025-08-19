@@ -1,5 +1,5 @@
 ---
-tags: #politics #west #decline #geopolitics #article
+tags: ["politics", "west", "decline", "geopolitics", "article"]
 created: 2025-02-28
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: #energy #discourse #fossil #benefits #politics #book
+tags: ["energy", "discourse", "fossil", "benefits", "politics", "book"]
 created: 2025-02-14
 ---
 

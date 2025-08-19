@@ -1,5 +1,5 @@
 ---
-tags: #politics #productivity #wealth #inequality #book
+tags: ["politics", "productivity", "wealth", "inequality", "book"]
 created: 2025-03-17
 ---
 

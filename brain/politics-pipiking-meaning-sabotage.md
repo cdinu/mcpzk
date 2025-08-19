@@ -1,5 +1,5 @@
 ---
-tags: #politics #language #meaning #sabotage #book
+tags: ["politics", "language", "meaning", "sabotage", "book"]
 created: 2025-04-25
 ---
 

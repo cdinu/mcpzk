@@ -1,5 +1,5 @@
 ---
-tags: #energy #infrastructure #habitable #survival #book
+tags: ["energy", "infrastructure", "habitable", "survival", "book"]
 created: 2023-12-17
 ---
 

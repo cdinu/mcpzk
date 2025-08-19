@@ -1,5 +1,5 @@
 ---
-tags: #energy #co2 #global #environment #podcast
+tags: ["energy", "co2", "global", "environment", "podcast"]
 created: 2023-12-11
 ---
 

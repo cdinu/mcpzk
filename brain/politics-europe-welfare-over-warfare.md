@@ -1,5 +1,5 @@
 ---
-tags: #politics #europe #welfare #warfare #soft-power #military
+tags: ["politics", "europe", "welfare", "warfare", "soft-power", "military"]
 created: 2024-03-15
 updated: 2025-08-17
 ---

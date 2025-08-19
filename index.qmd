@@ -1,0 +1,58 @@
+---
+title: "Knowledge Garden"
+subtitle: "A Zettelkasten-style exploration of interconnected ideas"
+page-layout: full
+date: "2025-08-19"
+---
+
+::: {.hero-banner}
+# Welcome to the Knowledge Garden 🧠
+
+*A living collection of ideas, insights, and connections across multiple domains of human knowledge and experience.*
+
+[Start Exploring](brain/__start__.md){.btn .btn-primary .btn-lg role="button"}
+:::
+
+## Quick Navigation
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### 🎯 Domain Hubs
+Explore synthesized insights within each major area:
+
+- [🤖 AI Hub](brain/ai-hub-synthesis.md) - Cognitive fitness, expertise gaps, and democratic implications
+- [⚡ Energy Hub](brain/energy-hub-synthesis.md) - Infrastructure, climate, and survival technology  
+- [🏛️ Politics Hub](brain/politics-hub-synthesis.md) - Power, legitimacy, and social systems
+- [📈 Productivity Hub](brain/productivity-hub-synthesis.md) - Tradeoffs, focus, and what's worth doing
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### 🔗 Cross-Domain Insights
+Discover patterns that span multiple areas:
+
+- [Meta Hub](brain/meta-hub-cross-domain.md) - System-wide patterns and connections
+- [System Summary](brain/_summary_.md) - Structure and maintenance overview
+- [🧠 Neurodiversity Hub](brain/neurodiversity-hub-synthesis.md) - Cognitive diversity and adaptation
+- [🏥 Health Hub](brain/health-hub-synthesis.md) - Consciousness and prevention principles
+:::
+
+:::
+
+---
+
+## Core Philosophy
+
+This knowledge system operates on several key principles:
+
+**🔗 Everything Connects** • Ideas don't exist in isolation. The most valuable insights emerge at the intersections.
+
+**⚖️ Tradeoffs Are Universal** • Every choice involves opportunity costs. Maturity means accepting this reality.
+
+**🎯 Judgment Becomes Scarce** • As execution becomes automated, human value shifts to knowing what's worth doing.
+
+**🏗️ Under Construction** • Knowledge is always evolving. These notes capture thinking in progress.
+
+---
+
+*Last updated: {{< meta date >}}*

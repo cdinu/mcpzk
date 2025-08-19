@@ -1,5 +1,5 @@
 ---
-tags: #politics #rules #scarcity #breakdown #personal
+tags: ["politics", "rules", "scarcity", "breakdown", "personal"]
 created: 2025-04-25
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: #health-hub #synthesis
+tags: ["health-hub", "synthesis"]
 created: 2025-08-17
 updated: 2025-08-18
 ---

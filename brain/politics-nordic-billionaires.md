@@ -1,5 +1,5 @@
 ---
-tags: #politics #nordic #billionaires #welfare #tweet
+tags: ["politics", "nordic", "billionaires", "welfare", "tweet"]
 created: 2025-03-04
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: #politics #geopolitics #power #hard-power #video
+tags: ["politics", "geopolitics", "power", "hard-power", "video"]
 created: 2025-02-28
 ---
 

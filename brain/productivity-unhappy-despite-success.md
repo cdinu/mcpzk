@@ -1,5 +1,5 @@
 ---
-tags: #productivity #management #unhappiness #success #workplace #career
+tags: ["productivity", "management", "unhappiness", "success", "workplace", "career"]
 created: 2024-02-25
 updated: 2025-08-17
 ---

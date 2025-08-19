@@ -1,5 +1,5 @@
 ---
-tags: #energy #fossil #infrastructure #book
+tags: ["energy", "fossil", "infrastructure", "book"]
 created: 2023-12-12
 ---
 

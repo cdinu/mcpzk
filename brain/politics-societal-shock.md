@@ -1,5 +1,5 @@
 ---
-tags: #politics #shock #society #unprecedented #book
+tags: ["politics", "shock", "society", "unprecedented", "book"]
 created: 2025-03-03
 ---
 

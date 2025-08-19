@@ -1,5 +1,5 @@
 ---
-tags: #energy #airships #transport #emissions #video
+tags: ["energy", "airships", "transport", "emissions", "video"]
 created: 2024-03-18
 ---
 

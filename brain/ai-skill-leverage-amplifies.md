@@ -1,5 +1,5 @@
 ---
-tags: #ai #leverage #skills #amplification #tweet
+tags: ["ai", "leverage", "skills", "amplification", "tweet"]
 created: 2025-04-25
 ---
 

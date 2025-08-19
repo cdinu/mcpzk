@@ -1,5 +1,5 @@
 ---
-tags: #politics #welfare #motivation #work #singapore #book
+tags: ["politics", "welfare", "motivation", "work", "singapore", "book"]
 created: 2025-03-04
 ---
 

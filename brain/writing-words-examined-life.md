@@ -1,5 +1,5 @@
 ---
-tags: #writing #words #examination #life #documentation #personal
+tags: ["writing", "words", "examination", "life", "documentation", "personal"]
 created: 2023-12-17
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: #politics #conspiracy #power #wealth #book
+tags: ["politics", "conspiracy", "power", "wealth", "book"]
 created: 2025-04-25
 ---
 

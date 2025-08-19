@@ -1,5 +1,5 @@
 ---
-tags: #energy #servers #efficiency #utilization #paper
+tags: ["energy", "servers", "efficiency", "utilization", "paper"]
 created: 2023-01-01
 ---
 

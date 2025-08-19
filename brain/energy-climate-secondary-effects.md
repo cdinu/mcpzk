@@ -1,5 +1,5 @@
 ---
-tags: #energy #climate #secondary #effects #video
+tags: ["energy", "climate", "secondary", "effects", "video"]
 created: 2023-01-01
 ---
 

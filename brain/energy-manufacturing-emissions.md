@@ -1,5 +1,5 @@
 ---
-tags: #energy #manufacturing #carbon #lifecycle #paper
+tags: ["energy", "manufacturing", "carbon", "lifecycle", "paper"]
 created: 2023-01-11
 ---
 

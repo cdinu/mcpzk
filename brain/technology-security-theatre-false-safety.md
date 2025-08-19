@@ -1,5 +1,5 @@
 ---
-tags: #technology #security #theatre #effectiveness #perception
+tags: ["technology", "security", "theatre", "effectiveness", "perception"]
 created: 2024-02-15
 updated: 2025-08-17
 ---

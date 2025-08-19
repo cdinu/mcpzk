@@ -1,5 +1,5 @@
 ---
-tags: #energy #climate #nuclear #war #pandemics #personal
+tags: ["energy", "climate", "nuclear", "war", "pandemics", "personal"]
 created: 2023-01-01
 ---
 

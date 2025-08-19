@@ -1,5 +1,5 @@
 ---
-tags: #politics #eu #metrosexual #power #soft-power #book
+tags: ["politics", "eu", "metrosexual", "power", "soft-power", "book"]
 created: 2025-01-01
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: #energy #co2 #persistence #climate #paper
+tags: ["energy", "co2", "persistence", "climate", "paper"]
 created: 2023-07-13
 ---
 

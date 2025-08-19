@@ -1,5 +1,5 @@
 ---
-tags: #neurodiversity #autism #rumination #anger #thinking #book
+tags: ["neurodiversity", "autism", "rumination", "anger", "thinking", "book"]
 created: 2025-02-28
 ---
 

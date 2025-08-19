@@ -1,5 +1,5 @@
 ---
-tags: #ai #critical-thinking #verification #integration #paper
+tags: ["ai", "critical-thinking", "verification", "integration", "paper"]
 created: 2025-02-28
 ---
 

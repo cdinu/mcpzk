@@ -1,5 +1,5 @@
 ---
-tags: #politics #china #censorship #three-ts #external #book
+tags: ["politics", "china", "censorship", "three-ts", "external", "book"]
 created: 2025-04-25
 ---
 

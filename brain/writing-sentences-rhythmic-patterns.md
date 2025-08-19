@@ -1,5 +1,5 @@
 ---
-tags: #writing #rhythm #sentences #style #craft
+tags: ["writing", "rhythm", "sentences", "style", "craft"]
 created: 2024-04-03
 updated: 2025-08-17
 ---

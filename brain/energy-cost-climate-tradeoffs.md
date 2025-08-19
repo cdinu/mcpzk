@@ -1,5 +1,5 @@
 ---
-tags: #energy #cost #climate #tradeoffs #personal
+tags: ["energy", "cost", "climate", "tradeoffs", "personal"]
 created: 2023-01-01
 ---
 

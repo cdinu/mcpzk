@@ -1,5 +1,5 @@
 ---
-tags: #ai #architecture #division-of-labor #orchestration #tools #interface #truth #calculation
+tags: ["ai", "architecture", "division-of-labor", "orchestration", "tools", "interface", "truth", "calculation"]
 created: 2025-08-19
 ---
 

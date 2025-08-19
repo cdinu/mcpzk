@@ -1,5 +1,5 @@
 ---
-tags: #health #oral-hygiene #obesity #bacteria #weight-loss
+tags: ["health", "oral-hygiene", "obesity", "bacteria", "weight-loss"]
 created: 2023-12-17
 updated: 2025-08-17
 ---

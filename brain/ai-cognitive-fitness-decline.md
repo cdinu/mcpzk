@@ -1,5 +1,5 @@
 ---
-tags: #ai #cognition #fitness #decline #personal
+tags: ["ai", "cognition", "fitness", "decline", "personal"]
 created: 2025-02-28
 ---
 

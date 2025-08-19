@@ -1,5 +1,5 @@
 ---
-tags: #energy #fossil #infrastructure #accessibility #book
+tags: ["energy", "fossil", "infrastructure", "accessibility", "book"]
 created: 2025-02-14
 ---
 

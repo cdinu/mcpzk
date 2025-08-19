@@ -1,5 +1,5 @@
 ---
-tags: #productivity #dri #responsibility #accountability #apple
+tags: ["productivity", "dri", "responsibility", "accountability", "apple"]
 created: 2025-03-30
 ---
 

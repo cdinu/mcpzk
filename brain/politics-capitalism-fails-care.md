@@ -1,5 +1,5 @@
 ---
-tags: #politics #capitalism #care #system #book
+tags: ["politics", "capitalism", "care", "system", "book"]
 created: 2025-04-25
 ---
 

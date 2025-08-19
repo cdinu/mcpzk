@@ -1,5 +1,5 @@
 ---
-tags: #ai #lui #linguistic-user-interface #wolfram #architecture #formal-systems #llm #tools #video
+tags: ["ai", "lui", "linguistic-user-interface", "wolfram", "architecture", "formal-systems", "llm", "tools", "video"]
 created: 2025-08-19
 ---
 

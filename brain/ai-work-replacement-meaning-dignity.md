@@ -1,5 +1,5 @@
 ---
-tags: #ai #work #meaning #dignity #security #kurzweil #economics #book
+tags: ["ai", "work", "meaning", "dignity", "security", "kurzweil", "economics", "book"]
 created: 2025-08-18
 ---
 

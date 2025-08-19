@@ -1,5 +1,5 @@
 ---
-tags: #summary #structure #maintenance #knowledge-management
+tags: ["summary", "structure", "maintenance", "knowledge-management"]
 created: 2025-08-18
 ---
 

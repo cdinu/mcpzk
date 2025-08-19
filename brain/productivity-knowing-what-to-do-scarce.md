@@ -1,5 +1,5 @@
 ---
-tags: #productivity #scarcity #knowing #execution #subjective #article
+tags: ["productivity", "scarcity", "knowing", "execution", "subjective", "article"]
 created: 2025-01-01
 ---
 

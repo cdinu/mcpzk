@@ -1,5 +1,5 @@
 ---
-tags: #politics #communism #freedom #greed #implementation #ideology
+tags: ["politics", "communism", "freedom", "greed", "implementation", "ideology"]
 created: 2024-03-10
 updated: 2025-08-17
 ---

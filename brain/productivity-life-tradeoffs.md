@@ -1,5 +1,5 @@
 ---
-tags: #productivity #tradeoffs #life #perfection #choices #personal
+tags: ["productivity", "tradeoffs", "life", "perfection", "choices", "personal"]
 created: 2023-12-17
 ---
 

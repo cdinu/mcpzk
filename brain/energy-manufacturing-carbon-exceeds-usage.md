@@ -1,5 +1,5 @@
 ---
-tags: #energy #carbon #manufacturing #usage #lifecycle #emissions
+tags: ["energy", "carbon", "manufacturing", "usage", "lifecycle", "emissions"]
 created: 2023-01-11
 updated: 2025-08-17
 ---

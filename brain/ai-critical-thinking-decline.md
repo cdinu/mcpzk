@@ -1,5 +1,5 @@
 ---
-tags: #ai #critical-thinking #cognition #research #paper
+tags: ["ai", "critical-thinking", "cognition", "research", "paper"]
 created: 2025-02-28
 ---
 

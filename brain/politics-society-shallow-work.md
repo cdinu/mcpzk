@@ -1,5 +1,5 @@
 ---
-tags: #politics #society #work #shallow #deep #productivity #personal
+tags: ["politics", "society", "work", "shallow", "deep", "productivity", "personal"]
 created: 2025-02-28
 ---
 

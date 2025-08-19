@@ -1,5 +1,5 @@
 ---
-tags: #technology #filesystem #generation #interface #abstraction
+tags: ["technology", "filesystem", "generation", "interface", "abstraction"]
 created: 2024-03-20
 updated: 2025-08-17
 ---

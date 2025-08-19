@@ -1,5 +1,5 @@
 ---
-tags: #politics #crime #society #responsibility #book
+tags: ["politics", "crime", "society", "responsibility", "book"]
 created: 2025-04-25
 ---
 

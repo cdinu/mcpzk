@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__start__.md",
+                "file": "productivity-deep-work-coefficient.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__start__"
+              "title": "productivity-deep-work-coefficient"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__start__.md",
+                "file": "productivity-deep-work-coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for __start__"
+              "title": "Backlinks for productivity-deep-work-coefficient"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__start__.md",
+                "file": "productivity-deep-work-coefficient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from __start__"
+              "title": "Outgoing links from productivity-deep-work-coefficient"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__start__.md",
+                "file": "productivity-deep-work-coefficient.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of __start__"
+              "title": "Outline of productivity-deep-work-coefficient"
             }
           }
         ]
@@ -185,16 +185,33 @@
   },
   "active": "020da20d2066c343",
   "lastOpenFiles": [
-    "ai-llm-orchestrator-tools-truth.md",
+    "productivity-activities-require-no-willpower.md",
+    "politics-west-dead.md",
+    "productivity-knowing-what-to-do-scarce.md",
+    "productivity-deep-work-coefficient.md",
+    "politics-society-shallow-work.md",
+    "energy-air-pollution-mass-mortality.md",
+    "ai-surveillance-democracy.md",
+    "ai-turing-test-dumbing-down.md",
+    "productivity-knowing-what-to-do-scarce.html",
+    "productivity-knowing-what-to-do-scarce_files/mediabag",
+    "productivity-knowing-what-to-do-scarce_files",
+    "productivity-unhappy-despite-success.html",
+    "productivity-unhappy-despite-success_files/mediabag",
+    "productivity-unhappy-despite-success_files",
+    "productivity-hub-synthesis.html",
+    "productivity-hub-synthesis_files/mediabag",
+    "productivity-hub-synthesis_files",
+    "politics-crime-social-individual.html",
     "ai-lui-linguistic-user-interface.md",
+    "__start__.md",
+    "ai-llm-orchestrator-tools-truth.md",
     "energy-feudalism-infrastructure-control.md",
     "writing-socrates-examined-life.md",
     "ai-llm-amplify-expertise.md",
-    "ai-turing-test-dumbing-down.md",
     "ai-work-replacement-meaning-dignity.md",
     "_llm_instructions_.md",
     "_summary_.md",
-    "__start__.md",
     "ai-writing-forklift-gym.md",
     "ai-cognitive-fitness-decline.md",
     "technology-filesystem-generation-gap.md",

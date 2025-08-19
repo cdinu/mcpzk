@@ -1,5 +1,5 @@
 ---
-tags: #politics #liberty #taxes #government #tradeoffs
+tags: ["politics", "liberty", "taxes", "government", "tradeoffs"]
 created: 2024-02-10
 updated: 2025-08-17
 ---

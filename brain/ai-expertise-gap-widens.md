@@ -1,5 +1,5 @@
 ---
-tags: #ai #expertise #democratization #inequality #article
+tags: ["ai", "expertise", "democratization", "inequality", "article"]
 created: 2025-04-25
 ---
 

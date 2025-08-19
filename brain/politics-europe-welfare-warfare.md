@@ -1,5 +1,5 @@
 ---
-tags: #politics #europe #welfare #warfare #geopolitics #book
+tags: ["politics", "europe", "welfare", "warfare", "geopolitics", "book"]
 created: 2025-01-01
 ---
 

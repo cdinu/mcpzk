@@ -1,5 +1,5 @@
 ---
-tags: #productivity #goals #written #fruition #statistics
+tags: ["productivity", "goals", "written", "fruition", "statistics"]
 created: 2025-02-14
 ---
 

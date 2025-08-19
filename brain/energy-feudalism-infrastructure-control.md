@@ -1,5 +1,5 @@
 ---
-tags: #energy #feudalism #infrastructure #control #dependency #governance #platforms #justice
+tags: ["energy", "feudalism", "infrastructure", "control", "dependency", "governance", "platforms", "justice"]
 created: 2025-08-19
 ---
 

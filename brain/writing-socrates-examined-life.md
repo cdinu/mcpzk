@@ -1,5 +1,5 @@
 ---
-tags: #writing #philosophy #socrates #examined-life #self-reflection #wisdom #plato
+tags: ["writing", "philosophy", "socrates", "examined-life", "self-reflection", "wisdom", "plato"]
 created: 2025-08-19
 ---
 

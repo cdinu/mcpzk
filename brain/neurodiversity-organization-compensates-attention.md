@@ -1,5 +1,5 @@
 ---
-tags: #neurodiversity #ocd #organization #adhd #compensation #strategies
+tags: ["neurodiversity", "ocd", "organization", "adhd", "compensation", "strategies"]
 created: 2023-10-20
 updated: 2025-08-17
 ---

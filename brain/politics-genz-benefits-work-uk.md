@@ -1,5 +1,5 @@
 ---
-tags: #politics #genz #benefits #work #uk #mental-health #article
+tags: ["politics", "genz", "benefits", "work", "uk", "mental-health", "article"]
 created: 2025-03-17
 ---
 

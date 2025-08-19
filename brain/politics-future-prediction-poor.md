@@ -1,5 +1,5 @@
 ---
-tags: #politics #prediction #future #cognitive #personal
+tags: ["politics", "prediction", "future", "cognitive", "personal"]
 created: 2023-12-17
 ---
 

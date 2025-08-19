@@ -1,5 +1,5 @@
 ---
-tags: #ai #democracy #surveillance #politics #video
+tags: ["ai", "democracy", "surveillance", "politics", "video"]
 created: 2023-01-01
 ---
 

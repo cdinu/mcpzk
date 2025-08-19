@@ -1,5 +1,5 @@
 ---
-tags: #writing #science #religion #faith #doubt #epistemology #feynman
+tags: ["writing", "science", "religion", "faith", "doubt", "epistemology", "feynman"]
 created: 2024-02-24
 updated: 2025-08-17
 ---

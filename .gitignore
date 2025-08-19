@@ -1,0 +1,19 @@
+# Quarto generated files
+/.quarto/
+_site/
+
+# Python scripts (temporary)
+convert_tags.py
+
+# OS files
+.DS_Store
+*/.DS_Store
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak

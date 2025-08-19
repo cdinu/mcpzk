@@ -1,5 +1,5 @@
 ---
-tags: #technology #productivity #tools #mobile
+tags: ["technology", "productivity", "tools", "mobile"]
 created: 2023-09-16
 updated: 2025-08-17
 ---

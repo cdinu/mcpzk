@@ -1,5 +1,5 @@
 ---
-tags: #writing-hub #synthesis
+tags: ["writing-hub", "synthesis"]
 created: 2025-08-17
 updated: 2025-08-18
 ---

@@ -1,5 +1,5 @@
 ---
-tags: #productivity #deep-work #measurement #skill #difficulty
+tags: ["productivity", "deep-work", "measurement", "skill", "difficulty"]
 created: 2024-01-17
 updated: 2025-08-17
 ---

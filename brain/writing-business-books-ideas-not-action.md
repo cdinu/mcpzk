@@ -1,5 +1,5 @@
 ---
-tags: #writing #business-books #ideas #implementation #action #effectiveness
+tags: ["writing", "business-books", "ideas", "implementation", "action", "effectiveness"]
 created: 2023-10-02
 updated: 2025-08-17
 ---

@@ -1,5 +1,5 @@
 ---
-tags: #neurodiversity #alexithymia #emotions #expression #book
+tags: ["neurodiversity", "alexithymia", "emotions", "expression", "book"]
 created: 2025-02-28
 ---
 

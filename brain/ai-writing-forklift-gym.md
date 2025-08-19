@@ -1,5 +1,5 @@
 ---
-tags: #ai #writing #exercise #cognition #book
+tags: ["ai", "writing", "exercise", "cognition", "book"]
 created: 2025-02-28
 ---
 

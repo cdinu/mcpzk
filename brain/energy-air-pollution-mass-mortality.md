@@ -1,5 +1,5 @@
 ---
-tags: #energy #air-pollution #health #mortality #policy
+tags: ["energy", "air-pollution", "health", "mortality", "policy"]
 created: 2023-01-03
 updated: 2025-08-17
 ---

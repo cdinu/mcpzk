@@ -1,5 +1,5 @@
 ---
-tags: #neurodiversity #adhd #justice #fairness #psychology
+tags: ["neurodiversity", "adhd", "justice", "fairness", "psychology"]
 created: 2023-10-26
 updated: 2025-08-17
 ---

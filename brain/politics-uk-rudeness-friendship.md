@@ -1,5 +1,5 @@
 ---
-tags: #politics #culture #friendship #uk #communication #personal
+tags: ["politics", "culture", "friendship", "uk", "communication", "personal"]
 created: 2025-02-28
 ---
 

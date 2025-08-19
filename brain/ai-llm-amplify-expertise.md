@@ -1,5 +1,5 @@
 ---
-tags: #ai #llm #expertise #amplification #coding #prompting #willison #article
+tags: ["ai", "llm", "expertise", "amplification", "coding", "prompting", "willison", "article"]
 created: 2025-08-19
 ---
 

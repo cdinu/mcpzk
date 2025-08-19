@@ -1,5 +1,5 @@
 ---
-tags: #politics #communism #freedom #greed #human-nature #movie
+tags: ["politics", "communism", "freedom", "greed", "human-nature", "movie"]
 created: 2025-01-01
 ---
 
