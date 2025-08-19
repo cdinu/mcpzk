@@ -28,6 +28,7 @@ updated: 2025-08-18
 - **"The 90/10 Professional Split"** - How AI divides skills into irrelevant (90%) and super-valuable (10%), requiring career strategy recalibration
 - **"Cognitive Gym Theory"** - Why mental effort has intrinsic value beyond productivity, and how to design AI tools that strengthen rather than weaken thinking
 - **"AI Surveillance Democracy Problem"** - How authoritarian AI capabilities combined with weakened citizen critical thinking creates existential threat to democratic governance
+- **"Beyond Paychecks: The Meaning-Dignity Work Framework"** - Why displaced workers need purpose and status, not just compensation, when AI eliminates their roles
 
 ### Developing Ideas
 
@@ -65,6 +66,7 @@ updated: 2025-08-18
 **Professional Impact** 
 - [AI widens expertise gap](ai-expertise-gap-widens.md) - Expert benefits vs. democratization narrative
 - [AI skill leverage increases](ai-skill-leverage-amplifies.md) - 90% skills eliminated, 10% amplified 1000x
+- [AI work replacement requires meaning, dignity and economic security](ai-work-replacement-meaning-dignity.md) - Why financial compensation alone fails displaced workers
 
 ## Supporting Sources
 
