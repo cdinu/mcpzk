@@ -1,7 +1,7 @@
 ---
 tags: #meta-hub #cross-domain #synthesis
 created: 2025-08-17
-updated: 2025-08-17
+updated: 2025-08-19
 ---
 
 # Cross-Domain Meta-Hub - System Synthesis
@@ -22,11 +22,12 @@ This meta-hub identifies patterns and article opportunities that span multiple d
 
 ### 2. **The Complexity-Simplicity Tension**
 **Domains**: Technology + AI + Politics + Energy
-**Pattern**: Complex systems require simple interfaces and clear boundaries. Pure functions, AI transparency, political messaging, and energy policy all struggle with complexity management.
+**Pattern**: Complex systems require simple interfaces and clear boundaries. Pure functions, AI transparency, political messaging, and energy policy all struggle with complexity management. Advanced capabilities must often be hidden to appear accessible or trustworthy.
 
 **Article Opportunity**: *"Interface Design for Complex Systems"*
 - How abstraction principles from software apply to policy communication
 - Why complexity hiding enables better decision-making
+- When superior performance must be concealed to maintain user trust
 
 ### 3. **The Scarcity-Leverage Evolution**
 **Domains**: AI + Productivity + Politics + Energy

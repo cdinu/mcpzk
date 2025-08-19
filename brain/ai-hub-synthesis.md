@@ -29,6 +29,7 @@ updated: 2025-08-18
 - **"Cognitive Gym Theory"** - Why mental effort has intrinsic value beyond productivity, and how to design AI tools that strengthen rather than weaken thinking
 - **"AI Surveillance Democracy Problem"** - How authoritarian AI capabilities combined with weakened citizen critical thinking creates existential threat to democratic governance
 - **"Beyond Paychecks: The Meaning-Dignity Work Framework"** - Why displaced workers need purpose and status, not just compensation, when AI eliminates their roles
+- **"The Turing Test Paradox"** - Why advanced AI must deliberately underperform to pass human intelligence tests, revealing fundamental flaws in AI evaluation
 
 ### Developing Ideas
 
@@ -56,6 +57,7 @@ updated: 2025-08-18
 
 **Surveillance & Democracy**
 - [AI enables totalitarian surveillance](ai-surveillance-democracy.md) - Technology enabling comprehensive population monitoring
+- [AI must dumb down to pass Turing test](ai-turing-test-dumbing-down.md) - Paradox of intelligence concealment in AI evaluation
 
 **Cognitive Impact**
 - [LLMs decrease cognitive fitness](ai-cognitive-fitness-decline.md) - Mental exercise reduction from AI assistance
