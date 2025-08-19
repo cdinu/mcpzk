@@ -65,6 +65,7 @@ LLMs work best as a linguistic user interface (LUI): they converse in human term
 
 ## Relationships
 - **Supports**: [LLMs amplify existing expertise](ai-llm-amplify-expertise.md) - Shows how expert domain knowledge enables effective tool selection and result interpretation
+- **Supports**: [LLM = interface & orchestrator; Tools = truth & calculation](ai-llm-orchestrator-tools-truth.md) - Implements this fundamental architectural principle
 - **Conflicts**: [AI must dumb down to pass Turing test](ai-turing-test-dumbing-down.md) - LUI embraces AI's computational superiority rather than hiding it
 - **Related**: [AI skill leverage increases](ai-skill-leverage-amplifies.md) - LUI as framework for skill amplification
 - **Examples**: Model Context Protocol implementations, scientific computing workflows, data analysis pipelines, decision support systems

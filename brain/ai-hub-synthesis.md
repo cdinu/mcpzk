@@ -14,6 +14,8 @@ updated: 2025-08-18
 
 3. **The Transformation Imperative**: AI fundamentally changes the nature of human work and thinking rather than simply automating existing processes, requiring complete reconceptualization of skill development and value creation. The Linguistic User Interface pattern exemplifies this transformation by making AI an orchestrator of formal tools rather than a replacement for human reasoning.
 
+4. **The Division of Labor Principle**: Effective AI systems separate responsibilities clearly - LLMs serve as interface and orchestrator while formal tools handle truth and calculation. This architectural separation leverages each component's strengths while avoiding their fundamental weaknesses.
+
 ## Key Patterns
 
 - **Leverage vs. Development Tension**: High AI leverage correlates with reduced skill development, creating strategic choices between short-term productivity and long-term capability
@@ -72,6 +74,7 @@ updated: 2025-08-18
 - [AI work replacement requires meaning, dignity and economic security](ai-work-replacement-meaning-dignity.md) - Why financial compensation alone fails displaced workers
 - [LLMs amplify existing expertise](ai-llm-amplify-expertise.md) - Concrete example of expert advantage with AI tools
 - [LLMs function as Linguistic User Interface to formal systems](ai-lui-linguistic-user-interface.md) - Architectural pattern for reliable AI-human-tool collaboration
+- [LLM = interface & orchestrator; Tools = truth & calculation](ai-llm-orchestrator-tools-truth.md) - Fundamental principle for AI system architecture
 
 ## Supporting Sources
 

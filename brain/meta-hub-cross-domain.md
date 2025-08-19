@@ -14,11 +14,12 @@ This meta-hub identifies patterns and article opportunities that span multiple d
 
 ### 1. **The Accountability-Agency Nexus**
 **Domains**: Productivity + Politics + AI + Energy
-**Pattern**: Individual accountability (DRI systems) connects to democratic legitimacy, AI system responsibility, and energy infrastructure decision-making. Clear ownership enables effective action across all domains.
+**Pattern**: Individual accountability (DRI systems) connects to democratic legitimacy, AI system responsibility, and energy infrastructure decision-making. Clear ownership enables effective action across all domains. The AI principle "LLM = interface & orchestrator; Tools = truth & calculation" exemplifies this through clear separation of responsibilities.
 
 **Article Opportunity**: *"The Agency Crisis: Why Individual Accountability Determines Collective Outcomes"*
 - How DRI principles apply to climate policy, AI governance, and democratic decision-making
 - Why distributed responsibility leads to paralysis across domains
+- How clear role separation enables both reliability and accountability
 
 ### 2. **The Complexity-Simplicity Tension**
 **Domains**: Technology + AI + Politics + Energy
