@@ -31,11 +31,12 @@ This meta-hub identifies patterns and article opportunities that span multiple d
 
 ### 3. **The Scarcity-Leverage Evolution**
 **Domains**: AI + Productivity + Politics + Energy
-**Pattern**: What becomes scarce changes as technology advances. Human judgment, political attention, energy access, and cognitive capacity shift in value as AI and automation reshape work.
+**Pattern**: What becomes scarce changes as technology advances. Human judgment, political attention, energy access, and cognitive capacity shift in value as AI and automation reshape work. Existing expertise becomes exponentially more valuable when combined with AI tools, while novice capabilities remain relatively unchanged.
 
 **Article Opportunity**: *"The New Scarcity Hierarchy: What Matters After Automation"*
 - How AI changes the value of different human capabilities
 - Why energy and attention become the limiting factors
+- How expert knowledge compounds with AI leverage
 
 ### 4. **The Tradeoff Recognition Framework**
 **Domains**: Energy + Politics + Health + Productivity

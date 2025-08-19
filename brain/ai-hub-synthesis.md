@@ -10,7 +10,7 @@ updated: 2025-08-18
 
 1. **The Cognitive Fitness Paradox**: AI tools reduce mental exercise precisely when humans need more cognitive strength, creating a fitness-intelligence feedback loop that may weaken collective thinking capacity.
 
-2. **The Concentration of Benefits**: AI amplifies existing advantages rather than democratizing them, widening gaps between experts and novices while potentially destabilizing social structures built on broader capability distribution.
+2. **The Concentration of Benefits**: AI amplifies existing advantages rather than democratizing them, widening gaps between experts and novices while potentially destabilizing social structures built on broader capability distribution. Expert-AI combinations dramatically outperform both standalone experts and novice-AI combinations.
 
 3. **The Transformation Imperative**: AI fundamentally changes the nature of human work and thinking rather than simply automating existing processes, requiring complete reconceptualization of skill development and value creation.
 
@@ -69,6 +69,7 @@ updated: 2025-08-18
 - [AI widens expertise gap](ai-expertise-gap-widens.md) - Expert benefits vs. democratization narrative
 - [AI skill leverage increases](ai-skill-leverage-amplifies.md) - 90% skills eliminated, 10% amplified 1000x
 - [AI work replacement requires meaning, dignity and economic security](ai-work-replacement-meaning-dignity.md) - Why financial compensation alone fails displaced workers
+- [LLMs amplify existing expertise](ai-llm-amplify-expertise.md) - Concrete example of expert advantage with AI tools
 
 ## Supporting Sources
 
